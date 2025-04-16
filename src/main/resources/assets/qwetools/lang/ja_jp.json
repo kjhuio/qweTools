@@ -1,0 +1,13 @@
+{
+  "itemGroup.qwetools.tools": "qweTools",
+  "item.qwetools.copper_pickaxe": "銅のツルハシ",
+  "item.qwetools.copper_axe": "銅の斧",
+  "item.qwetools.copper_hoe": "銅のクワ",
+  "item.qwetools.copper_shovel": "銅のシャベル",
+  "item.qwetools.copper_sword": "銅の剣",
+  "item.qwetools.wooden_hammer": "木のハンマー",
+  "item.qwetools.stone_hammer": "石のハンマー",
+  "item.qwetools.iron_hammer": "鉄のハンマー",
+  "item.qwetools.diamond_hammer": "ダイヤモンドのハンマー",
+  "item.qwetools.netherite_hammer": "ネザライトのハンマー"
+}

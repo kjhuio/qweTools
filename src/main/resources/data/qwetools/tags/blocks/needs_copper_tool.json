@@ -1,0 +1,10 @@
+{
+  "values":
+  [
+    "#minecraft:incorrect_for_iron_tool"
+  ],
+  "remove":
+  [
+    "#qwetools:needs_copper_tool"
+  ]
+}
